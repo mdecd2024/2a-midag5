@@ -11,7 +11,7 @@ class Init(object):
     # uwsgi as static class variable, can be accessed by Init.uwsgi
     uwsgi = False
     site_title = "cmsimde_site"
-    ip = "192.168.0.136"
+    ip = "192.168.1.104"
     dynamic_port = 9443
     static_port = 80
     def __init__(self):
