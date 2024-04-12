@@ -1,10 +1,19 @@
- HEAD
+
+
 [submodule "41023246"]
 	path = 41023246
 	url = https://github.com/41023246nfu/cd2024.git
+
+
+[submodule "41023246"]
+	path = 41023246
+	url = https://github.com/41023246nfu/cd2024.git
+  
+ 249ba633bc6fd460dbe4f9b7d058dc7930899783
 [submodule "40923124"]
 	path = 40923124
 	url = https://github.com/40923124/cd2024.git
+  
 [submodule "40923118"]
 	path = 40923118
 	url = https://github.com/40923118/cd2024.git
@@ -16,4 +25,17 @@
 [submodule "40923244"]
 	path = 40923244
 	url = https://github.com/40923244/cd2024.git
+
 c2f8cbe6d7fb8434d700a48de7aedb4da7b722d3
+
+
+[submodule "40923154"]
+	path = 40923154
+	url = https://github.com/40923154/cd2024.git
+[submodule "40923116"]
+	path = 40923116
+	url = https://github.com/40923116/cd2024.git
+[submodule "40823143"]
+	path = 40823143
+	url = https://github.com/40823143/cd2024.git
+ 249ba633bc6fd460dbe4f9b7d058dc7930899783
