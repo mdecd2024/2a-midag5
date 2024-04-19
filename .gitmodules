@@ -1,8 +1,15 @@
 
+
+[submodule "41023246"]
+	path = 41023246
+	url = https://github.com/41023246nfu/cd2024.git
+
+
 [submodule "41023246"]
 	path = 41023246
 	url = https://github.com/41023246nfu/cd2024.git
   
+ 
 [submodule "40923124"]
 	path = 40923124
 	url = https://github.com/40923124/cd2024.git
@@ -22,9 +29,12 @@
 [submodule "40923154"]
 	path = 40923154
 	url = https://github.com/40923154/cd2024.git
+
 [submodule "40923116"]
 	path = 40923116
 	url = https://github.com/40923116/cd2024.git
+
 [submodule "40823143"]
 	path = 40823143
 	url = https://github.com/40823143/cd2024.git
+
