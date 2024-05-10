@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T07:57:32+08:00</updated><entry><title>2024 Spring 課程 W3</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T11:00:00+08:00</published><updated>2024-05-10T07:57:32+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-01:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T08:02:07+08:00</updated><entry><title>2024 Spring 課程 W3</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T11:00:00+08:00</published><updated>2024-05-10T07:57:32+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-01:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -43,7 +43,7 @@ cd2024 課程希望將各分組的組員個人網站, 以 submodule 的方式納
 在 Windows 環境, 說明如何利用 LaTeX 協同建立分組報告&lt;/p&gt;
 &lt;p&gt;使用 Github Actions 執行轉檔: https://github.com/mdecd2024/test-ag1/blob/main/.github/workflows/main.yml&lt;/p&gt;
 &lt;p&gt;倉儲中的 latex 目錄: https://github.com/mdecd2024/test-ag1/tree/main/latex&lt;/p&gt;
-&lt;p&gt;利用可攜程式編譯 LaTeX&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 W2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T11:00:00+08:00</published><updated>2024-05-10T07:56:29+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-23:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;利用可攜程式編譯 LaTeX&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 W2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T11:00:00+08:00</published><updated>2024-05-10T08:02:07+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-23:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -64,7 +64,7 @@ cd2024 課程希望將各分組的組員個人網站, 以 submodule 的方式納
 說明如何利用近端可攜系統維護分組網站&lt;/p&gt;
 &lt;p&gt;ODOO 參考資料
 https://www.google.com/search?q=sap+vs+odoo (與 SAP 及 ODOO 有關的搜尋)&lt;/p&gt;
-&lt;p&gt;2021 ANALYSIS OF THE ODOO SOFTWARE CAPABILITIES REGARDING PRODUCT LIFECYCLE MANAGEMENT, MANUFACTURING EXECUTION SYSTEMS AND THEIR INTEGRATION.pdf or local download (password required) (Odoo 軟體在產品生命週期管理、製造執行系統及其整合上的功能分析)&lt;/p&gt;</content><category term="misc"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-08T05:51:22+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;2021 ANALYSIS OF THE ODOO SOFTWARE CAPABILITIES REGARDING PRODUCT LIFECYCLE MANAGEMENT, MANUFACTURING EXECUTION SYSTEMS AND THEIR INTEGRATION.pdf or local download (password required) (Odoo 軟體在產品生命週期管理、製造執行系統及其整合上的功能分析)&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-08T05:51:22+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
