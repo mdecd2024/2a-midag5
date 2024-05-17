@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w7</title><link href="./" rel="alternate"></link><link href="./feeds/w7.atom.xml" rel="self"></link><id>./</id><updated>2024-05-17T08:51:39+08:00</updated><entry><title>2024 Spring 課程 W7</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-05-17T08:51:39+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-29:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;p&gt;內容管理系統： 課程使用網際內容管理系統，採用 Github Classroom 建立分組倉儲，並利用 Python 編輯網頁，最後轉換為靜態網頁以便在 Github Pages 上呈現。&lt;/p&gt;
+&lt;p&gt;協同架構說明： 課程中採用了四種不同的方法進行 Python 網頁編輯，包括 Replit、Codespaces、Gitpod 和 localhost。這些方法都是雲端作業，學員可以根據喜好和環境選擇合適的編輯工具。&lt;/p&gt;
+&lt;p&gt;協同模式： 分組網站內容、報告內容、產品設計的 PLM、零組件設計、模擬場景設計和專案簡報設計等方面都有協同模式。學員需要透過各種工具與方法進行協同設計。&lt;/p&gt;
+&lt;p&gt;具體內容： 學員在各自的分組倉儲中設計了網站內容、報告內容、產品設計、零組件設計、模擬場景等。這些都是協同設計的重要部分，涉及到多種工具和技術的應用。&lt;/p&gt;
+&lt;p&gt;使用工具： 學員使用了多種工具和技術，包括 Github、Python、Pelican、Reveal、Solvespace、Siemens NX、CoppeliaSim、LaTeX 等，這些工具和技術都是協同設計過程中必不可少的。&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry></feed>
