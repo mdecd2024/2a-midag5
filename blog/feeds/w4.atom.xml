@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-05-17T07:26:46+08:00</updated><entry><title>2024 Spring 課程 W4</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-17T07:26:46+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-08:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;p&gt;本週上課內容主要圍繞協同產品設計實習的進行展開，重點包括明確界定任務需求與分工時序、倉儲與網站的改版管理、教學影片分組整理與自評，以及倉儲維護方式的介紹與比較。&lt;/p&gt;
+&lt;p&gt;在明確界定任務需求與分工時序方面，各分組需要清楚定義每個成員的責任範圍，確保工作分配合理，提高效率。而倉儲與網站的改版管理則是為了讓協同設計流程更加順暢，引入了SourceTree等工具來幫助成員清晰地追蹤倉儲改版歷程，同時利用Git Branch的應用減少合併次數。&lt;/p&gt;
+&lt;p&gt;另外，進行教學影片分組整理與自評有助於加深對知識的理解，提高合作能力和自主學習能力。最後，介紹了多種倉儲維護方式，包括Replit、Codespaces、Gitpod和localhost等，讓學員根據實際需求選擇最適合的方式進行倉儲管理和維護。&lt;/p&gt;
+&lt;p&gt;分組報告執行分工及進度整理：&lt;/p&gt;
+&lt;p&gt;分組一：負責明確界定任務需求與分工時序，確保每個成員的角色和責任清晰，並制定有效的工作時程表。
+分組二：專注於倉儲與網站的改版管理，使用SourceTree等工具幫助追蹤倉儲改版歷程，同時優化Git Branch的應用。
+分組三：負責教學影片分組整理與自評，包括影片字幕填寫、逐字稿整理和教學重點摘要，以及對其他分組影片的評估和反思。
+分組四：探討多種倉儲維護方式，包括Replit、Codespaces、Gitpod和localhost等，分析各種方式的優缺點，並根據實際情況提出建議。
+每個分組根據分工進行任務執行，並定期進行進度報告，確保整個協同產品設計實習順利進行。&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry></feed>
