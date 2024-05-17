@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w5</title><link href="./" rel="alternate"></link><link href="./feeds/w5.atom.xml" rel="self"></link><id>./</id><updated>2024-05-17T08:32:39+08:00</updated><entry><title>2024 Spring 課程 W5</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-05-17T08:32:39+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-15:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;p&gt;SSH 設定管理分組倉儲的權限：&lt;/p&gt;
+&lt;p&gt;摘要：教導如何在 Replit 上設定 SSH 以管理分組倉儲的權限，這是確保團隊成員可以安全地協作和管理倉儲的重要步驟。
+分組報告執行分工：每個組員可以負責研究不同的 SSH 設定方法和管理權限的最佳實踐，然後將這些知識整合到分組報告中。
+ODOO PLM 論文翻譯：&lt;/p&gt;
+&lt;p&gt;摘要：團隊需要翻譯一篇有關 ODOO PLM 的論文，並以 LaTeX 格式呈現中英文並列的版本。
+分組報告執行分工：團隊成員可以分工進行論文的中英文翻譯，然後再整合到 LaTeX 格式的報告中。其中一些成員可能需要負責排版和格式化工作。
+教學影片整理與自評：&lt;/p&gt;
+&lt;p&gt;摘要：團隊需要整理教學影片，添加字幕並上傳到分組網站上。同時，他們還需要整理影片的逐字稿以及教學重點的摘要。
+分組報告執行分工：團隊成員可以分工處理不同的教學影片，添加字幕並上傳到網站上。同時，他們還可以合作整理影片的逐字稿和撰寫教學重點的摘要。
+分組網誌統整：&lt;/p&gt;
+&lt;p&gt;摘要：團隊需要將各組員在個別的倉儲中編寫的協同設計網誌統整到分組倉儲中。
+分組報告執行分工：每個組員可以負責處理自己的協同設計網誌，然後協作將它們統整到分組倉儲中。可能需要一位組員負責倉儲的配置和設定工作。
+利用 NX 協同繪製零組件：&lt;/p&gt;
+&lt;p&gt;摘要：團隊需要了解如何使用不同版本的 NX 進行繪圖，並進行協同設計。
+分組報告執行分工：團隊成員可以分工學習不同版本的 NX 的使用方法，並探討如何進行協同繪製零組件。可能需要一位組員負責研究不同版本 NX 的差異和適用情況。
+Sourcetree 使用：&lt;/p&gt;
+&lt;p&gt;摘要：教導團隊如何使用 Sourcetree 管理倉儲的歷史提交內容。
+分組報告執行分工：團隊成員可以一起學習如何使用 Sourcetree，並分工處理不同的功能和操作示範。可能需要一位組員負責編寫使用指南或執行示範操作。&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry></feed>
