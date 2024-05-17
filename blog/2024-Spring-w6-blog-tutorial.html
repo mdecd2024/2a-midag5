@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
 
-  <title>網際內容管理系統 - Authors</title>
+  <title>2024 Spring 課程 W6</title>
 
 
   <meta name="HandheldFriendly" content="True" />
@@ -18,6 +18,7 @@
 
   <!-- Feed -->
         <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="網際內容管理系統 Full Atom Feed" />
+          <link href="./feeds/{slug}.atom.xml" type="application/atom+xml" rel="alternate" title="網際內容管理系統 Categories Atom Feed" />
 
   <link href="./theme/css/style.css" type="text/css" rel="stylesheet" />
 
@@ -39,27 +40,49 @@
   <![endif]-->
 
 
+    <link href="./2024-Spring-w6-blog-tutorial.html" rel="canonical" />
+
+        <meta name="description" content="2024 Spring 網際內容管理與協同產品設計實習課程教學導引.">
+
+        <meta name="author" content="kmol">
+
+        <meta name="tags" content="網誌編寫">
+
+
 
 
 <!-- Open Graph -->
 <meta property="og:site_name" content="網際內容管理系統"/>
-<meta property="og:type" content="blog"/>
-<meta property="og:title" content="網際內容管理系統"/>
-<meta property="og:description" content="View the blog."/>
+<meta property="og:title" content="2024 Spring 課程 W6"/>
+<meta property="og:description" content="2024 Spring 網際內容管理與協同產品設計實習課程教學導引."/>
 <meta property="og:locale" content="en_US"/>
-<meta property="og:url" content="./"/>
-<meta property="og:image" content="./theme/images/home-bg.jpg">
+<meta property="og:url" content="./2024-Spring-w6-blog-tutorial.html"/>
+<meta property="og:type" content="article"/>
+<meta property="article:published_time" content="2024-03-22 11:00:00+08:00"/>
+<meta property="article:modified_time" content="2024-05-17 08:47:42.507786+08:00"/>
+<meta property="article:author" content="./author/kmol.html">
+<meta property="article:section" content="w6"/>
+<meta property="article:tag" content="網誌編寫"/>
+<meta property="og:image" content="./theme/images/post-bg.jpg">
 
 <!-- Twitter Card -->
 
 <script type="application/ld+json">
 {
-  "@context" : "http://schema.org",
-  "@type" : "Website",
-  "name": " 網際內容管理系統 ",
-  "url" : "./",
-  "image": "./theme/images/home-bg.jpg",
-  "description": "View the blog."
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "name": "2024 Spring 課程 W6",
+  "headline": "2024 Spring 課程 W6",
+  "datePublished": "2024-03-22 11:00:00+08:00",
+  "dateModified": "2024-05-17 08:47:42.507786+08:00",
+  "author": {
+    "@type": "Person",
+    "name": "kmol",
+    "url": "./author/kmol.html"
+  },
+  "image": "./theme/images/post-bg.jpg",
+  "url": "./2024-Spring-w6-blog-tutorial.html",
+  "description": "2024 Spring 網際內容管理與協同產品設計實習課程教學導引."
 }
 </script>
 <script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shCore.js"></script>
@@ -164,19 +187,31 @@ init_mathjax();
     </ul>
   </div>
 </nav>
+    <!-- Progressbar -->
+    <div class="progress-container">
+        <span class="progress-bar"></span>
+    </div>
+
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header id="blog-header" class="has-cover">
+    <header id="post-header" class="has-cover">
       <div class="inner">
         <nav id="navigation">
             <span id="home-button" class="nav-button">
-                <a class="home-button" href="./" title="Home"><i class="ic ic-arrow-left"></i> Home</a>
+                <a class="home-button" href="./index.html" title="Home"><i class="ic ic-arrow-left"></i> Home</a>
             </span>
           <span id="menu-button" class="nav-button">
             <a class="menu-button"><i class="ic ic-menu"></i> Menu</a>
           </span>
         </nav>
-        <h1 class="post-title">Articles by </h1>
+        <h1 class="post-title">2024 Spring 課程 W6</h1>
+        <!-- TODO : Proper class for headline -->
+        <span class="post-meta">
+                <a href="./author/kmol.html">Kmol</a>
+            | <time datetime="Fri 22 March 2024">Fri 22 March 2024</time>
+        </span>
+        <!-- TODO : Modified check -->
+            <span class="post-meta"> | Updated on Fri 17 May 2024</span>
             <div class="post-cover cover" style="background-image: url('./theme/images/post-bg.jpg')">
       </div>
     </header>
@@ -190,15 +225,52 @@ init_mathjax();
     </form>
 </section>
 
-      <article class="post">
+
+    <!-- Post content -->
+    <main class="content" role="main">
+        <article class="post">
         <div class="inner">
-            <a href="./author/kmol.html" rel="bookmark">
-                <h2 class="post-title">
-                    kmol (6)
-                </h2>
-            </a>
-        </div>
-      </article>
+            <section class="post-content">
+                <p>2024 Spring 網際內容管理與協同產品設計實習課程教學導引.</p>
+
+
+<p>周的上課內容主要包括兩個方面：協同 NX 零組件繪圖以及 CoppeliaSim 場景模擬相關檔案格式，以及在 Github Actions 中設置帶有子模組的 main.yml 設定。</p>
+<p>協同 NX 零組件繪圖以及 CoppeliaSim 場景模擬相關檔案格式：</p>
+<p>課程內容：學習如何在 NX 中進行協同繪圖，以及了解 CoppeliaSim 場景模擬相關的檔案格式。
+分組報告執行分工：可能的分工包括研究 NX 繪圖的基本操作、研究 CoppeliaSim 檔案格式、撰寫相關的教學文檔或演示材料。
+Github Actions 帶有子模組的 main.yml 設定：</p>
+<p>課程內容：學習如何在 Github Actions 中設置帶有子模組的 main.yml 設定，確保工作流程中包含了子模組的相關內容。
+分組報告執行分工：可能的分工包括研究 Github Actions 的使用方法、撰寫設置子模組的 main.yml 文件、進行測試和調試等。
+進度整理：</p>
+<p>每個組員根據分工，完成相應的任務，例如研究相關概念、撰寫文檔、測試和調試等。
+學員們定期與組內其他成員進行討論，分享進度和遇到的問題，確保團隊間的協作和溝通順暢。
+學員們定期更新分組報告的進度，並根據需要調整分工和任務分配，確保報告能夠按時完成並符合要求。</p>
+            </section>
+
+            <section class="post-info">
+                <aside class="post-tags">
+<a href="./tag/wang-zhi-bian-xie.html">網誌編寫</a>                </aside>
+
+                <div class="clear"></div>
+
+
+                </section>
+
+
+                <aside class="post-nav">
+                    <a class="post-nav-prev" href="./2024-Spring-w5-blog-tutorial.html">
+                        <section class="post-nav-teaser">
+                            <i class="ic ic-arrow-right"></i>
+                                <h2 class="post-nav-title">2024 Spring 課程 W5</h2>
+                            <p class="post-nav-excerpt">2024 Spring 網際內容管理與協同產品設計實習課程教學導引.</p>
+                        </section>
+                    </a>
+                    <div class="clear"></div>
+                </aside>
+
+            </div>
+        </article>
+    </main>
       <!-- TODO : Body class -->
     <div id="body-class" style="display: none;" class=""></div>
 
