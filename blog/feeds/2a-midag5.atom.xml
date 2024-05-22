@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - 2a midag5</title><link href="./" rel="alternate"></link><link href="./feeds/2a-midag5.atom.xml" rel="self"></link><id>./</id><updated>2024-05-22T17:31:56+08:00</updated><entry><title>W2</title><link href="./cd2024-w2-blog-log.html" rel="alternate"></link><published>2024-03-01T16:00:00+08:00</published><updated>2024-05-22T17:31:56+08:00</updated><author><name>40923118</name></author><id>tag:None,2024-03-01:./cd2024-w2-blog-log.html</id><summary type="html">&lt;p&gt;分組並註冊 Odoo 帳號, 並取得分組產品生命週期管理系統網域, 再將參考論文的中英文翻譯, 其中要含個人心得報告.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;分組並註冊 Odoo 帳號, 並取得分組產品生命週期管理系統網域, 再將參考論文的中英文翻譯, 其中要含個人心得報告.&lt;/p&gt;
+
+&lt;p&gt;建立分組倉儲, 並利用 Codespaces 維護倉儲 ,並在Codespaces中輸入 chmod u+x init_replit 指令安裝模組, 若要執行動態可輸入python3 main.py, 若要執行靜態可輸入-python -m http.server, 但Github Codespaces 每月有使用限制 故建議在需利用 pelican 轉檔或啟動編輯 config/content.htm 與轉靜態網頁內容時, 才啟用 Codespaces&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Ovak86EyUnE?si=LDW5JRtsdd1LpDfa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;利用倉儲網址導入 Replit 中並選擇python語言 ,建立config.txt檔案 在將建立的 key 放入 github 並令存一個 id_rsa.txt 檔案, 之後回到 Replit 輸入chmod u+x init_replit 和 ./init_replit 安裝所需模組後就可啟動動態 並上傳先前做的2個txt檔後回到 Replit 輸入 python3 ssh.py , 最後在 Replit 中的config裡將'url'改成自己的&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SFNbRaEfdlM?si=89ksmH_LJLzDN4mO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;維護網站內容&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cMrkGBo3rU4?si=p3tKBxMSkU3a0Udn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;利用近端可攜系統維護分組網站&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wiDaRDNA2jM?si=fE_dNuwAM4EJQaZb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2a midag5"></category><category term="網誌編寫"></category></entry><entry><title>2a-midag5 W1</title><link href="./2a-midag5_cd2024-w1-blog-log.html" rel="alternate"></link><published>2024-02-28T16:00:00+08:00</published><updated>2024-05-22T17:23:46+08:00</updated><author><name>40923118</name></author><id>tag:None,2024-02-28:./2a-midag5_cd2024-w1-blog-log.html</id><summary type="html">&lt;p&gt;個人 cd2024 與分組倉儲的建立及維護.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;個人 cd2024 與分組倉儲的建立及維護.&lt;/p&gt;
+
+
+&lt;h1&gt;(1)建立課程倉&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;利用老師的倉儲作為 Template&lt;/a&gt;, 新增一個名稱為 cd2024 的倉儲, 並且將其 main 分支設為網頁根目錄.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/TMcOK2mUjHo?si=W1ZZtRMec7safDVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;(2)連結replit&lt;/h3&gt;
+&lt;p&gt;設定 Replit 與 Github 連結&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/N798hn7KOqQ?si=3tmBcQmcwrPL-FEv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;(3)完成雙重認證&lt;/h3&gt;
+&lt;p&gt;設定 Github 雙重認證&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/S0N-gOjP_UQ?si=RoYTel7ZXTCAA88Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2a midag5"></category><category term="網誌編寫"></category></entry></feed>
