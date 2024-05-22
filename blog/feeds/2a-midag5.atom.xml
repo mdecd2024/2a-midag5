@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - 2a midag5</title><link href="./" rel="alternate"></link><link href="./feeds/2a-midag5.atom.xml" rel="self"></link><id>./</id><updated>2024-05-22T17:31:56+08:00</updated><entry><title>W2</title><link href="./cd2024-w2-blog-log.html" rel="alternate"></link><published>2024-03-01T16:00:00+08:00</published><updated>2024-05-22T17:31:56+08:00</updated><author><name>40923118</name></author><id>tag:None,2024-03-01:./cd2024-w2-blog-log.html</id><summary type="html">&lt;p&gt;分組並註冊 Odoo 帳號, 並取得分組產品生命週期管理系統網域, 再將參考論文的中英文翻譯, 其中要含個人心得報告.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - 2a midag5</title><link href="./" rel="alternate"></link><link href="./feeds/2a-midag5.atom.xml" rel="self"></link><id>./</id><updated>2024-05-22T18:02:08+08:00</updated><entry><title>2a-midag5 W4</title><link href="./2a-midag5_cd2024-w4-blog-log.html" rel="alternate"></link><published>2024-03-15T16:00:00+08:00</published><updated>2024-05-22T18:02:08+08:00</updated><author><name>40923118</name></author><id>tag:None,2024-03-15:./2a-midag5_cd2024-w4-blog-log.html</id><summary type="html">&lt;p&gt;將先前教學影片分組整理上字幕並且將自己做得給自評&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;將先前教學影片分組整理上字幕並且將自己做得給自評&lt;/p&gt;
+
+
+&lt;p&gt;在 Replit 檢視靜態網站&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_GKjSRgolzw?si=glMJz_rRbrdMZ-Va" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;下載 replit_main2.7z 並在倉儲中建立兩個檔案&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/llhgVaJl_gQ?si=Vec5D3OpmNgUeWe9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2a midag5"></category><category term="網誌編寫"></category></entry><entry><title>2a-midag5 W3</title><link href="./2a-midag5_cd2024-w3-blog-log.html" rel="alternate"></link><published>2024-03-08T16:00:00+08:00</published><updated>2024-05-22T18:02:08+08:00</updated><author><name>40923118</name></author><id>tag:None,2024-03-08:./2a-midag5_cd2024-w3-blog-log.html</id><summary type="html">&lt;p&gt;將各個人倉儲納為分組倉儲的子模組, 並將各人倉儲中的 LaTeX 原始資料, 整合至分組倉儲中, 並建立分組的參考論文閱讀報告 pdf 檔案(教學).&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;將各個人倉儲納為分組倉儲的子模組, 並將各人倉儲中的 LaTeX 原始資料, 整合至分組倉儲中, 並建立分組的參考論文閱讀報告 pdf 檔案(教學).&lt;/p&gt;
+
+
+&lt;p&gt;將個人倉儲設為分組倉儲的子模組&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/X03mtYzZaME?si=eSSSzN5E4IupOkYO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;將組員的個人倉儲納入分組倉儲成為子模組&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rwPqjfY59hQ?si=DzYEEoQPbPn-rsRq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;在 Replit 維護分組倉儲&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rgWIza6jMwQ?si=Pda2k0404HvxJYnL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;用 Gitpod 維護個人網站&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_COTZQNsOTs?si=2M27EFtswkEYOGuu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;利用 LaTeX 協同建立分組報告&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JLAhRTh2clE?si=D1ZYl_NaKhRvOEBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;設定個人倉儲中的 Pelican 網誌&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OmPwUvljqx8?si=0ND6IP1D-XysViKW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;簡介 Odoo PLM 用法&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OreiGj14CF0?si=sFtDLyW26pVlmPmp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2a midag5"></category><category term="網誌編寫"></category></entry><entry><title>2a-midag5 W2</title><link href="./2a-midag5_cd2024-w2-blog-log.html" rel="alternate"></link><published>2024-02-23T16:00:00+08:00</published><updated>2024-05-22T17:59:26+08:00</updated><author><name>40923118</name></author><id>tag:None,2024-02-23:./2a-midag5_cd2024-w2-blog-log.html</id><summary type="html">&lt;p&gt;分組並註冊 Odoo 帳號, 並取得分組產品生命週期管理系統網域, 再將參考論文的中英文翻譯, 其中要含個人心得報告.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;分組並註冊 Odoo 帳號, 並取得分組產品生命週期管理系統網域, 再將參考論文的中英文翻譯, 其中要含個人心得報告.&lt;/p&gt;
 
 &lt;p&gt;建立分組倉儲, 並利用 Codespaces 維護倉儲 ,並在Codespaces中輸入 chmod u+x init_replit 指令安裝模組, 若要執行動態可輸入python3 main.py, 若要執行靜態可輸入-python -m http.server, 但Github Codespaces 每月有使用限制 故建議在需利用 pelican 轉檔或啟動編輯 config/content.htm 與轉靜態網頁內容時, 才啟用 Codespaces&lt;/p&gt;
@@ -12,7 +43,7 @@
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cMrkGBo3rU4?si=p3tKBxMSkU3a0Udn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;利用近端可攜系統維護分組網站&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wiDaRDNA2jM?si=fE_dNuwAM4EJQaZb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2a midag5"></category><category term="網誌編寫"></category></entry><entry><title>2a-midag5 W1</title><link href="./2a-midag5_cd2024-w1-blog-log.html" rel="alternate"></link><published>2024-02-28T16:00:00+08:00</published><updated>2024-05-22T17:23:46+08:00</updated><author><name>40923118</name></author><id>tag:None,2024-02-28:./2a-midag5_cd2024-w1-blog-log.html</id><summary type="html">&lt;p&gt;個人 cd2024 與分組倉儲的建立及維護.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wiDaRDNA2jM?si=fE_dNuwAM4EJQaZb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2a midag5"></category><category term="網誌編寫"></category></entry><entry><title>2a-midag5 W1</title><link href="./2a-midag5_cd2024-w1-blog-log.html" rel="alternate"></link><published>2024-02-18T16:00:00+08:00</published><updated>2024-05-22T18:00:16+08:00</updated><author><name>40923118</name></author><id>tag:None,2024-02-18:./2a-midag5_cd2024-w1-blog-log.html</id><summary type="html">&lt;p&gt;個人 cd2024 與分組倉儲的建立及維護.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;個人 cd2024 與分組倉儲的建立及維護.&lt;/p&gt;
 
 

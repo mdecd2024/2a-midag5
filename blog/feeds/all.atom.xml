@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-22T17:31:56+08:00</updated><entry><title>2024 Spring 課程 W7</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-05-22T16:31:32+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-29:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-22T18:02:08+08:00</updated><entry><title>2024 Spring 課程 W7</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-05-22T16:31:32+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-29:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -21,7 +21,15 @@ Github Actions 帶有子模組的 main.yml 設定：&lt;/p&gt;
 進度整理：&lt;/p&gt;
 &lt;p&gt;每個組員根據分工，完成相應的任務，例如研究相關概念、撰寫文檔、測試和調試等。
 學員們定期與組內其他成員進行討論，分享進度和遇到的問題，確保團隊間的協作和溝通順暢。
-學員們定期更新分組報告的進度，並根據需要調整分工和任務分配，確保報告能夠按時完成並符合要求。&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 W5</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-05-22T16:31:32+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-15:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+學員們定期更新分組報告的進度，並根據需要調整分工和任務分配，確保報告能夠按時完成並符合要求。&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>2a-midag5 W4</title><link href="./2a-midag5_cd2024-w4-blog-log.html" rel="alternate"></link><published>2024-03-15T16:00:00+08:00</published><updated>2024-05-22T18:02:08+08:00</updated><author><name>40923118</name></author><id>tag:None,2024-03-15:./2a-midag5_cd2024-w4-blog-log.html</id><summary type="html">&lt;p&gt;將先前教學影片分組整理上字幕並且將自己做得給自評&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;將先前教學影片分組整理上字幕並且將自己做得給自評&lt;/p&gt;
+
+
+&lt;p&gt;在 Replit 檢視靜態網站&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_GKjSRgolzw?si=glMJz_rRbrdMZ-Va" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;下載 replit_main2.7z 並在倉儲中建立兩個檔案&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/llhgVaJl_gQ?si=Vec5D3OpmNgUeWe9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2a midag5"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 W5</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-05-22T16:31:32+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-15:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -42,19 +50,30 @@ ODOO PLM 論文翻譯：&lt;/p&gt;
 分組報告執行分工：團隊成員可以分工學習不同版本的 NX 的使用方法，並探討如何進行協同繪製零組件。可能需要一位組員負責研究不同版本 NX 的差異和適用情況。
 Sourcetree 使用：&lt;/p&gt;
 &lt;p&gt;摘要：教導團隊如何使用 Sourcetree 管理倉儲的歷史提交內容。
-分組報告執行分工：團隊成員可以一起學習如何使用 Sourcetree，並分工處理不同的功能和操作示範。可能需要一位組員負責編寫使用指南或執行示範操作。&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 W4</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T11:00:00+08:00</published><updated>2024-05-22T16:31:32+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-08:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+分組報告執行分工：團隊成員可以一起學習如何使用 Sourcetree，並分工處理不同的功能和操作示範。可能需要一位組員負責編寫使用指南或執行示範操作。&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>2a-midag5 W3</title><link href="./2a-midag5_cd2024-w3-blog-log.html" rel="alternate"></link><published>2024-03-08T16:00:00+08:00</published><updated>2024-05-22T18:02:08+08:00</updated><author><name>40923118</name></author><id>tag:None,2024-03-08:./2a-midag5_cd2024-w3-blog-log.html</id><summary type="html">&lt;p&gt;將各個人倉儲納為分組倉儲的子模組, 並將各人倉儲中的 LaTeX 原始資料, 整合至分組倉儲中, 並建立分組的參考論文閱讀報告 pdf 檔案(教學).&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;將各個人倉儲納為分組倉儲的子模組, 並將各人倉儲中的 LaTeX 原始資料, 整合至分組倉儲中, 並建立分組的參考論文閱讀報告 pdf 檔案(教學).&lt;/p&gt;
 
 
-&lt;p&gt;本週上課內容主要圍繞協同產品設計實習的進行展開，重點包括明確界定任務需求與分工時序、倉儲與網站的改版管理、教學影片分組整理與自評，以及倉儲維護方式的介紹與比較。&lt;/p&gt;
-&lt;p&gt;在明確界定任務需求與分工時序方面，各分組需要清楚定義每個成員的責任範圍，確保工作分配合理，提高效率。而倉儲與網站的改版管理則是為了讓協同設計流程更加順暢，引入了SourceTree等工具來幫助成員清晰地追蹤倉儲改版歷程，同時利用Git Branch的應用減少合併次數。&lt;/p&gt;
-&lt;p&gt;另外，進行教學影片分組整理與自評有助於加深對知識的理解，提高合作能力和自主學習能力。最後，介紹了多種倉儲維護方式，包括Replit、Codespaces、Gitpod和localhost等，讓學員根據實際需求選擇最適合的方式進行倉儲管理和維護。&lt;/p&gt;
-&lt;p&gt;分組報告執行分工及進度整理：&lt;/p&gt;
-&lt;p&gt;分組一：負責明確界定任務需求與分工時序，確保每個成員的角色和責任清晰，並制定有效的工作時程表。
-分組二：專注於倉儲與網站的改版管理，使用SourceTree等工具幫助追蹤倉儲改版歷程，同時優化Git Branch的應用。
-分組三：負責教學影片分組整理與自評，包括影片字幕填寫、逐字稿整理和教學重點摘要，以及對其他分組影片的評估和反思。
-分組四：探討多種倉儲維護方式，包括Replit、Codespaces、Gitpod和localhost等，分析各種方式的優缺點，並根據實際情況提出建議。
-每個分組根據分工進行任務執行，並定期進行進度報告，確保整個協同產品設計實習順利進行。&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>W2</title><link href="./cd2024-w2-blog-log.html" rel="alternate"></link><published>2024-03-01T16:00:00+08:00</published><updated>2024-05-22T17:31:56+08:00</updated><author><name>40923118</name></author><id>tag:None,2024-03-01:./cd2024-w2-blog-log.html</id><summary type="html">&lt;p&gt;分組並註冊 Odoo 帳號, 並取得分組產品生命週期管理系統網域, 再將參考論文的中英文翻譯, 其中要含個人心得報告.&lt;/p&gt;
+&lt;p&gt;將個人倉儲設為分組倉儲的子模組&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/X03mtYzZaME?si=eSSSzN5E4IupOkYO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;將組員的個人倉儲納入分組倉儲成為子模組&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rwPqjfY59hQ?si=DzYEEoQPbPn-rsRq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;在 Replit 維護分組倉儲&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rgWIza6jMwQ?si=Pda2k0404HvxJYnL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;用 Gitpod 維護個人網站&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_COTZQNsOTs?si=2M27EFtswkEYOGuu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;利用 LaTeX 協同建立分組報告&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JLAhRTh2clE?si=D1ZYl_NaKhRvOEBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;設定個人倉儲中的 Pelican 網誌&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OmPwUvljqx8?si=0ND6IP1D-XysViKW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;簡介 Odoo PLM 用法&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OreiGj14CF0?si=sFtDLyW26pVlmPmp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2a midag5"></category><category term="網誌編寫"></category></entry><entry><title>2a-midag5 W2</title><link href="./2a-midag5_cd2024-w2-blog-log.html" rel="alternate"></link><published>2024-02-23T16:00:00+08:00</published><updated>2024-05-22T17:59:26+08:00</updated><author><name>40923118</name></author><id>tag:None,2024-02-23:./2a-midag5_cd2024-w2-blog-log.html</id><summary type="html">&lt;p&gt;分組並註冊 Odoo 帳號, 並取得分組產品生命週期管理系統網域, 再將參考論文的中英文翻譯, 其中要含個人心得報告.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;分組並註冊 Odoo 帳號, 並取得分組產品生命週期管理系統網域, 再將參考論文的中英文翻譯, 其中要含個人心得報告.&lt;/p&gt;
 
 &lt;p&gt;建立分組倉儲, 並利用 Codespaces 維護倉儲 ,並在Codespaces中輸入 chmod u+x init_replit 指令安裝模組, 若要執行動態可輸入python3 main.py, 若要執行靜態可輸入-python -m http.server, 但Github Codespaces 每月有使用限制 故建議在需利用 pelican 轉檔或啟動編輯 config/content.htm 與轉靜態網頁內容時, 才啟用 Codespaces&lt;/p&gt;
@@ -67,51 +86,7 @@ Sourcetree 使用：&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cMrkGBo3rU4?si=p3tKBxMSkU3a0Udn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;利用近端可攜系統維護分組網站&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wiDaRDNA2jM?si=fE_dNuwAM4EJQaZb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2a midag5"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 W3</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T11:00:00+08:00</published><updated>2024-05-22T16:31:32+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-01:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;p&gt;期中協同分組報告
-請參考 https://github.com/mdecd2024/test-ag1 中的 latex 目錄與 downloads 目錄中的 https://github.com/mdecd2024/test-ag1/blob/main/downloads/report_github.txt&lt;/p&gt;
-&lt;p&gt;並根據下列教學範例:&lt;/p&gt;
-&lt;p&gt;說明如何將 41123130 的個人倉儲設為 2a-midag2 分組倉儲的子模組&lt;/p&gt;
-&lt;p&gt;說明如何將組員的個人倉儲納入分組倉儲成為子模組&lt;/p&gt;
-&lt;p&gt;說明如何在 Replit 維護分組倉儲&lt;/p&gt;
-&lt;p&gt;由各組員在其個人的 cd2024 倉儲中, 以 LaTeX 格式分工完成下列文章的英文與中文翻譯並列資料, 最後在分組網站的 Release 或 downloads 區完成 2b-midbgx_report.pdf 的製作.&lt;/p&gt;
-&lt;p&gt;若要在近端使用可攜程式環境編譯分組 LaTeX 報告, 請下載 miktex-portable.7z (需要密碼, 下載 167MB, 解開壓縮檔案後約 1GB) 以及參考資料: latex_images_github.7z (需要密碼)&lt;/p&gt;
-&lt;p&gt;2021 ANALYSIS OF THE ODOO SOFTWARE CAPABILITIES REGARDING PRODUCT LIFECYCLE MANAGEMENT, MANUFACTURING EXECUTION SYSTEMS AND THEIR INTEGRATION.pdf or local download (password required) (Odoo 軟體在產品生命週期管理、製造執行系統及其整合上的功能分析)&lt;/p&gt;
-&lt;p&gt;英文單字查詢: 2021_odoo_reading.html&lt;/p&gt;
-&lt;p&gt;有關 Codespaces 使用
-由於 Github Codespaces 免費帳號目前每月可以使用 120 core hours, 因此使用者可以選擇在 Github 倉儲中編輯 markdown 目錄中的網誌 .md 文章後, 只在需要利用 pelican 轉檔或啟動編輯 config/content.htm 與轉靜態網頁內容時, 才啟用 Codespaces. 如此可以最佳化使用 Codespaces 的免費 core hours.&lt;/p&gt;
-&lt;p&gt;使用 Gitpod 維護倉儲與網站
-Gitpod 與 Codespaces 類似, 也是採用 Visual Studio Code 網際介面, 可讓使用者維護位於 Github 的倉儲, 只是個人的 cd2024 倉儲, 以 Github 帳號登入 Gitpod 之後, 可以直接維護, 但是分組網站是從 Github Classroom mdecd2024 帳號下派任, 與 Replit 環境維護分組網站的方法相同, 必須自行建立 .ssh 下的 id_rsa 與 config, 差別是一旦在 Gitpod 導入的分組網站 SSH 管理權限, 不會像 Replit 免費帳號下, 系統會定期刪除免費帳號使用者的 .ssh 目錄.&lt;/p&gt;
-&lt;p&gt;在 Gitpod 導入 Github 倉儲後, 路徑位於 /workspace/ 目錄下, 但是 .ssh 目錄則位於 /home/gitpod/.ssh, 當使用者執行 cd 則會進入 /home/gitpod 目錄, 且使用者在 Gitpod 的 Dashboard 可以從 https://gitpod.io 進入.&lt;/p&gt;
-&lt;p&gt;說明使用 Gitpod 維護個人網站&lt;/p&gt;
-&lt;p&gt;說明使用 Gitpod 維護分組網站&lt;/p&gt;
-&lt;p&gt;電腦教室中的協同設計
-cd2024 起, 電腦輔助設計室中的每一台電腦已經各自擁有一個外部 IPv4 網址, 因此各組員可將個人倉儲與分組倉儲 git clone 至隨身碟, 利用 Token 或 SSH session 授權維護倉儲與網站內容.&lt;/p&gt;
-&lt;p&gt;如何利用 Classic Token 授權維護倉儲與網站&lt;/p&gt;
-&lt;p&gt;ODOO 參考資料
-https://www.google.com/search?q=sap+vs+odoo (與 SAP 及 ODOO 有關的搜尋)&lt;/p&gt;
-&lt;p&gt;2021 ANALYSIS OF THE ODOO SOFTWARE CAPABILITIES REGARDING PRODUCT LIFECYCLE MANAGEMENT, MANUFACTURING EXECUTION SYSTEMS AND THEIR INTEGRATION.pdf or local download (password required) (Odoo 軟體在產品生命週期管理、製造執行系統及其整合上的功能分析)&lt;/p&gt;
-&lt;p&gt;英文單字查詢: 2021_odoo_reading.html&lt;/p&gt;
-&lt;p&gt;將組員的個人倉儲設為分組倉儲子模組
-cd2024 課程希望將各分組的組員個人網站, 以 submodule 的方式納入各分組倉儲與網站, 設定的指令為:&lt;/p&gt;
-&lt;p&gt;git submodule add 組員的個人倉儲網址 組員的學號&lt;/p&gt;
-&lt;p&gt;例如: 假設組員的 cd2024 個人倉儲位於: https://github.com/scrum-1/cd2024, 且該組員的學號為 41123299, 則該組員必須在進入該組的倉儲目錄後, 執行:&lt;/p&gt;
-&lt;p&gt;git submodule add https://github.com/scrum-1/cd2024.git 41123299&lt;/p&gt;
-&lt;p&gt;如此, Github 帳號為 scrum-1 的組員, 其個人倉儲就會設定為分組倉儲的子模組, 而且是以其學號命名此一子模組的目錄名稱. 這樣設定的好處是: 各組員可以自行管理個人的課程倉儲與網站, 也就是位於其 Github 帳號下的 cd2024, 並且自行決定要整合到分組倉儲與網站的版本. 也能將自己在課程網站的資料, 直接用連結導入分組網站, 無需額外將資料搬進分組倉儲.&lt;/p&gt;
-&lt;p&gt;另外一個使用 Github Classroom 派送分組倉儲的好處, 是 mdecycu 自動成為各分組倉儲的管理者之一, 若各組在改版或解決衝突的過程發生問題, mdecycu 可以協助處理.&lt;/p&gt;
-&lt;p&gt;一旦分組倉儲帶有以各組員學號作為子模組之後, git clone 倉儲必須使用:&lt;/p&gt;
-&lt;p&gt;git clone --recurse-submodules 加上各組的倉儲 URL&lt;/p&gt;
-&lt;p&gt;以第一組期中分組倉儲的 git clone 為例, 並且使用 putty session 名稱 github.com:&lt;/p&gt;
-&lt;p&gt;git clone --recurse-submodules git@github.com:mdecd2024/2b-midbg1.git&lt;/p&gt;
-&lt;p&gt;而且若要在分組倉儲中更新各組員的子模組版本, 則必須更換目錄到該組員的學號目錄中並且使用 git pull origin main, 才能取下該組員其 cd2024 個人倉儲的最新內容. 取下組員資料後, 若要新增提交推送, 則必須再更換目錄回分組倉儲後才能執行.&lt;/p&gt;
-&lt;p&gt;有關 LaTeX 轉 pdf
-在 Windows 環境, 說明如何利用 LaTeX 協同建立分組報告&lt;/p&gt;
-&lt;p&gt;使用 Github Actions 執行轉檔: https://github.com/mdecd2024/test-ag1/blob/main/.github/workflows/main.yml&lt;/p&gt;
-&lt;p&gt;倉儲中的 latex 目錄: https://github.com/mdecd2024/test-ag1/tree/main/latex&lt;/p&gt;
-&lt;p&gt;利用可攜程式編譯 LaTeX&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2a-midag5 W1</title><link href="./2a-midag5_cd2024-w1-blog-log.html" rel="alternate"></link><published>2024-02-28T16:00:00+08:00</published><updated>2024-05-22T17:23:46+08:00</updated><author><name>40923118</name></author><id>tag:None,2024-02-28:./2a-midag5_cd2024-w1-blog-log.html</id><summary type="html">&lt;p&gt;個人 cd2024 與分組倉儲的建立及維護.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wiDaRDNA2jM?si=fE_dNuwAM4EJQaZb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2a midag5"></category><category term="網誌編寫"></category></entry><entry><title>2a-midag5 W1</title><link href="./2a-midag5_cd2024-w1-blog-log.html" rel="alternate"></link><published>2024-02-18T16:00:00+08:00</published><updated>2024-05-22T18:00:16+08:00</updated><author><name>40923118</name></author><id>tag:None,2024-02-18:./2a-midag5_cd2024-w1-blog-log.html</id><summary type="html">&lt;p&gt;個人 cd2024 與分組倉儲的建立及維護.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;個人 cd2024 與分組倉儲的建立及維護.&lt;/p&gt;
 
 
