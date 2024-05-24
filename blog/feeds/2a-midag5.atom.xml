@@ -1,27 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-22T18:02:08+08:00</updated><entry><title>2024 Spring 課程 W7</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-05-22T16:31:32+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-29:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;p&gt;內容管理系統： 課程使用網際內容管理系統，採用 Github Classroom 建立分組倉儲，並利用 Python 編輯網頁，最後轉換為靜態網頁以便在 Github Pages 上呈現。&lt;/p&gt;
-&lt;p&gt;協同架構說明： 課程中採用了四種不同的方法進行 Python 網頁編輯，包括 Replit、Codespaces、Gitpod 和 localhost。這些方法都是雲端作業，學員可以根據喜好和環境選擇合適的編輯工具。&lt;/p&gt;
-&lt;p&gt;協同模式： 分組網站內容、報告內容、產品設計的 PLM、零組件設計、模擬場景設計和專案簡報設計等方面都有協同模式。學員需要透過各種工具與方法進行協同設計。&lt;/p&gt;
-&lt;p&gt;具體內容： 學員在各自的分組倉儲中設計了網站內容、報告內容、產品設計、零組件設計、模擬場景等。這些都是協同設計的重要部分，涉及到多種工具和技術的應用。&lt;/p&gt;
-&lt;p&gt;使用工具： 學員使用了多種工具和技術，包括 Github、Python、Pelican、Reveal、Solvespace、Siemens NX、CoppeliaSim、LaTeX 等，這些工具和技術都是協同設計過程中必不可少的。&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 W6</title><link href="./2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-05-22T16:31:32+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-22:./2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;p&gt;周的上課內容主要包括兩個方面：協同 NX 零組件繪圖以及 CoppeliaSim 場景模擬相關檔案格式，以及在 Github Actions 中設置帶有子模組的 main.yml 設定。&lt;/p&gt;
-&lt;p&gt;協同 NX 零組件繪圖以及 CoppeliaSim 場景模擬相關檔案格式：&lt;/p&gt;
-&lt;p&gt;課程內容：學習如何在 NX 中進行協同繪圖，以及了解 CoppeliaSim 場景模擬相關的檔案格式。
-分組報告執行分工：可能的分工包括研究 NX 繪圖的基本操作、研究 CoppeliaSim 檔案格式、撰寫相關的教學文檔或演示材料。
-Github Actions 帶有子模組的 main.yml 設定：&lt;/p&gt;
-&lt;p&gt;課程內容：學習如何在 Github Actions 中設置帶有子模組的 main.yml 設定，確保工作流程中包含了子模組的相關內容。
-分組報告執行分工：可能的分工包括研究 Github Actions 的使用方法、撰寫設置子模組的 main.yml 文件、進行測試和調試等。
-進度整理：&lt;/p&gt;
-&lt;p&gt;每個組員根據分工，完成相應的任務，例如研究相關概念、撰寫文檔、測試和調試等。
-學員們定期與組內其他成員進行討論，分享進度和遇到的問題，確保團隊間的協作和溝通順暢。
-學員們定期更新分組報告的進度，並根據需要調整分工和任務分配，確保報告能夠按時完成並符合要求。&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>2a-midag5 W4</title><link href="./2a-midag5_cd2024-w4-blog-log.html" rel="alternate"></link><published>2024-03-15T16:00:00+08:00</published><updated>2024-05-22T18:02:08+08:00</updated><author><name>40923118</name></author><id>tag:None,2024-03-15:./2a-midag5_cd2024-w4-blog-log.html</id><summary type="html">&lt;p&gt;將先前教學影片分組整理上字幕並且將自己做得給自評&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - 2a midag5</title><link href="./" rel="alternate"></link><link href="./feeds/2a-midag5.atom.xml" rel="self"></link><id>./</id><updated>2024-05-22T18:02:08+08:00</updated><entry><title>2a-midag5 W4</title><link href="./2a-midag5_cd2024-w4-blog-log.html" rel="alternate"></link><published>2024-03-15T16:00:00+08:00</published><updated>2024-05-22T18:02:08+08:00</updated><author><name>40923118</name></author><id>tag:None,2024-03-15:./2a-midag5_cd2024-w4-blog-log.html</id><summary type="html">&lt;p&gt;將先前教學影片分組整理上字幕並且將自己做得給自評&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;將先前教學影片分組整理上字幕並且將自己做得給自評&lt;/p&gt;
 
 
@@ -29,28 +7,7 @@ Github Actions 帶有子模組的 main.yml 設定：&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_GKjSRgolzw?si=glMJz_rRbrdMZ-Va" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;下載 replit_main2.7z 並在倉儲中建立兩個檔案&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/llhgVaJl_gQ?si=Vec5D3OpmNgUeWe9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2a midag5"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 W5</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T11:00:00+08:00</published><updated>2024-05-22T16:31:32+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-15:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;p&gt;SSH 設定管理分組倉儲的權限：&lt;/p&gt;
-&lt;p&gt;摘要：教導如何在 Replit 上設定 SSH 以管理分組倉儲的權限，這是確保團隊成員可以安全地協作和管理倉儲的重要步驟。
-分組報告執行分工：每個組員可以負責研究不同的 SSH 設定方法和管理權限的最佳實踐，然後將這些知識整合到分組報告中。
-ODOO PLM 論文翻譯：&lt;/p&gt;
-&lt;p&gt;摘要：團隊需要翻譯一篇有關 ODOO PLM 的論文，並以 LaTeX 格式呈現中英文並列的版本。
-分組報告執行分工：團隊成員可以分工進行論文的中英文翻譯，然後再整合到 LaTeX 格式的報告中。其中一些成員可能需要負責排版和格式化工作。
-教學影片整理與自評：&lt;/p&gt;
-&lt;p&gt;摘要：團隊需要整理教學影片，添加字幕並上傳到分組網站上。同時，他們還需要整理影片的逐字稿以及教學重點的摘要。
-分組報告執行分工：團隊成員可以分工處理不同的教學影片，添加字幕並上傳到網站上。同時，他們還可以合作整理影片的逐字稿和撰寫教學重點的摘要。
-分組網誌統整：&lt;/p&gt;
-&lt;p&gt;摘要：團隊需要將各組員在個別的倉儲中編寫的協同設計網誌統整到分組倉儲中。
-分組報告執行分工：每個組員可以負責處理自己的協同設計網誌，然後協作將它們統整到分組倉儲中。可能需要一位組員負責倉儲的配置和設定工作。
-利用 NX 協同繪製零組件：&lt;/p&gt;
-&lt;p&gt;摘要：團隊需要了解如何使用不同版本的 NX 進行繪圖，並進行協同設計。
-分組報告執行分工：團隊成員可以分工學習不同版本的 NX 的使用方法，並探討如何進行協同繪製零組件。可能需要一位組員負責研究不同版本 NX 的差異和適用情況。
-Sourcetree 使用：&lt;/p&gt;
-&lt;p&gt;摘要：教導團隊如何使用 Sourcetree 管理倉儲的歷史提交內容。
-分組報告執行分工：團隊成員可以一起學習如何使用 Sourcetree，並分工處理不同的功能和操作示範。可能需要一位組員負責編寫使用指南或執行示範操作。&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>2a-midag5 W3</title><link href="./2a-midag5_cd2024-w3-blog-log.html" rel="alternate"></link><published>2024-03-08T16:00:00+08:00</published><updated>2024-05-22T18:02:08+08:00</updated><author><name>40923118</name></author><id>tag:None,2024-03-08:./2a-midag5_cd2024-w3-blog-log.html</id><summary type="html">&lt;p&gt;將各個人倉儲納為分組倉儲的子模組, 並將各人倉儲中的 LaTeX 原始資料, 整合至分組倉儲中, 並建立分組的參考論文閱讀報告 pdf 檔案(教學).&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/llhgVaJl_gQ?si=Vec5D3OpmNgUeWe9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2a midag5"></category><category term="網誌編寫"></category></entry><entry><title>2a-midag5 W3</title><link href="./2a-midag5_cd2024-w3-blog-log.html" rel="alternate"></link><published>2024-03-08T16:00:00+08:00</published><updated>2024-05-22T18:02:08+08:00</updated><author><name>40923118</name></author><id>tag:None,2024-03-08:./2a-midag5_cd2024-w3-blog-log.html</id><summary type="html">&lt;p&gt;將各個人倉儲納為分組倉儲的子模組, 並將各人倉儲中的 LaTeX 原始資料, 整合至分組倉儲中, 並建立分組的參考論文閱讀報告 pdf 檔案(教學).&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;將各個人倉儲納為分組倉儲的子模組, 並將各人倉儲中的 LaTeX 原始資料, 整合至分組倉儲中, 並建立分組的參考論文閱讀報告 pdf 檔案(教學).&lt;/p&gt;
 
 

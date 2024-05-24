@@ -11,9 +11,9 @@ class Init(object):
     # uwsgi as static class variable, can be accessed by Init.uwsgi
     uwsgi = False
     site_title = "cmsimde_site"
-    ip = "192.168.1.104"
+    ip = "192.168.0.136"
     dynamic_port = 9443
-    static_port = 80
+    static_port = 8443
     def __init__(self):
         # hope to create downloads and images directories　
         if not os.path.isdir(_curdir + "/downloads"):
