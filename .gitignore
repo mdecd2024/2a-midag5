@@ -8,3 +8,5 @@ config/config
 *.log
 *.out
 *.toc
+"downloads/config.txt" 
+"downloads/id_rsa.txt" 
